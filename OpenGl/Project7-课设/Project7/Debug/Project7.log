@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\g'x'y\desktop\计图\project7\project7\main.cpp(51): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  Project7.vcxproj -> C:\Users\g'x'y\Desktop\计图\Project7\Debug\Project7.exe
